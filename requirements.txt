@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-dotenv
+pandas
+numpy
+supabase
+polygon-api-client
+python-telegram-bot
